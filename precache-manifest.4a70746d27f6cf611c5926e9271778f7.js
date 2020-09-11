@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "64fcc167860cf3225f9faa4470824caf",
+    "revision": "f20c0491ea1fa6e522a0270e74af5342",
     "url": "/Quigley_Portfoilo/index.html"
   },
   {
-    "revision": "82f39b82abeb2ca50164",
+    "revision": "b762feba30d9d039ef0c",
     "url": "/Quigley_Portfoilo/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "2695b6c3b596aa4c9002",
+    "revision": "114e46c1e1d34e50d645",
     "url": "/Quigley_Portfoilo/static/css/main.e3505628.chunk.css"
   },
   {
-    "revision": "82f39b82abeb2ca50164",
-    "url": "/Quigley_Portfoilo/static/js/2.30ec395c.chunk.js"
+    "revision": "b762feba30d9d039ef0c",
+    "url": "/Quigley_Portfoilo/static/js/2.3dfa3c7b.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/Quigley_Portfoilo/static/js/2.30ec395c.chunk.js.LICENSE.txt"
+    "url": "/Quigley_Portfoilo/static/js/2.3dfa3c7b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2695b6c3b596aa4c9002",
-    "url": "/Quigley_Portfoilo/static/js/main.8a8b7052.chunk.js"
+    "revision": "114e46c1e1d34e50d645",
+    "url": "/Quigley_Portfoilo/static/js/main.c1682bdf.chunk.js"
   },
   {
     "revision": "0f7e621dfe6e4897e935",
