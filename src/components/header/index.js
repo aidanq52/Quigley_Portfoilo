@@ -9,7 +9,7 @@ function PortfolioNavbar(){
         <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="mr-auto">
             <Nav.Link href="/">Home</Nav.Link>
-            <Nav.Link href="/portfolio">Portfolio</Nav.Link>
+            <Nav.Link href={`${process.env.PUBLIC_URL}/portfolio/` }>Portfolio</Nav.Link>
             <NavDropdown title="Applications" id="basic-nav-dropdown">
                 <NavDropdown.Item href="https://the-ultimate-fitness-tracker.herokuapp.com/?id=5f334a2059852a0017420622">Fitness Tracker</NavDropdown.Item>
                 <NavDropdown.Item href="https://sleepy-dawn-56235.herokuapp.com/">Note Taker</NavDropdown.Item>
