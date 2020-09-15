@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2ea885ad64ee1f799b718ab69d0b48fb",
+    "revision": "03844dfe5e962b66912793d02dfe4392",
     "url": "/Quigley_Portfoilo/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Quigley_Portfoilo/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "47834a21d0948383148b",
+    "revision": "3de3518d36dd1568ac37",
     "url": "/Quigley_Portfoilo/static/css/main.e3505628.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Quigley_Portfoilo/static/js/2.30ec395c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "47834a21d0948383148b",
-    "url": "/Quigley_Portfoilo/static/js/main.a97157b2.chunk.js"
+    "revision": "3de3518d36dd1568ac37",
+    "url": "/Quigley_Portfoilo/static/js/main.979a980b.chunk.js"
   },
   {
     "revision": "0f7e621dfe6e4897e935",
