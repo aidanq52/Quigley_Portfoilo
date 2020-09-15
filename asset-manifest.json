@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/Quigley_Portfoilo/static/css/main.e3505628.chunk.css",
-    "main.js": "/Quigley_Portfoilo/static/js/main.e34c655f.chunk.js",
-    "main.js.map": "/Quigley_Portfoilo/static/js/main.e34c655f.chunk.js.map",
+    "main.js": "/Quigley_Portfoilo/static/js/main.8c56bdea.chunk.js",
+    "main.js.map": "/Quigley_Portfoilo/static/js/main.8c56bdea.chunk.js.map",
     "runtime-main.js": "/Quigley_Portfoilo/static/js/runtime-main.c7b58d1d.js",
     "runtime-main.js.map": "/Quigley_Portfoilo/static/js/runtime-main.c7b58d1d.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/Quigley_Portfoilo/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.3dfa3c7b.chunk.js": "/Quigley_Portfoilo/static/js/2.3dfa3c7b.chunk.js",
-    "static/js/2.3dfa3c7b.chunk.js.map": "/Quigley_Portfoilo/static/js/2.3dfa3c7b.chunk.js.map",
+    "static/js/2.30ec395c.chunk.js": "/Quigley_Portfoilo/static/js/2.30ec395c.chunk.js",
+    "static/js/2.30ec395c.chunk.js.map": "/Quigley_Portfoilo/static/js/2.30ec395c.chunk.js.map",
     "index.html": "/Quigley_Portfoilo/index.html",
-    "precache-manifest.e24e023321005f99d3035c8b71e55d68.js": "/Quigley_Portfoilo/precache-manifest.e24e023321005f99d3035c8b71e55d68.js",
+    "precache-manifest.e56c46e0abab0bcc0f634b82d65aceaa.js": "/Quigley_Portfoilo/precache-manifest.e56c46e0abab0bcc0f634b82d65aceaa.js",
     "service-worker.js": "/Quigley_Portfoilo/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/Quigley_Portfoilo/static/css/2.d9ad5f5c.chunk.css.map",
     "static/css/main.e3505628.chunk.css.map": "/Quigley_Portfoilo/static/css/main.e3505628.chunk.css.map",
-    "static/js/2.3dfa3c7b.chunk.js.LICENSE.txt": "/Quigley_Portfoilo/static/js/2.3dfa3c7b.chunk.js.LICENSE.txt",
+    "static/js/2.30ec395c.chunk.js.LICENSE.txt": "/Quigley_Portfoilo/static/js/2.30ec395c.chunk.js.LICENSE.txt",
     "static/media/budget.png": "/Quigley_Portfoilo/static/media/budget.83869753.png",
     "static/media/chefPro.png": "/Quigley_Portfoilo/static/media/chefPro.cceb3b90.png",
     "static/media/directory.png": "/Quigley_Portfoilo/static/media/directory.598bca1d.png",
@@ -25,8 +25,8 @@
   "entrypoints": [
     "static/js/runtime-main.c7b58d1d.js",
     "static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.3dfa3c7b.chunk.js",
+    "static/js/2.30ec395c.chunk.js",
     "static/css/main.e3505628.chunk.css",
-    "static/js/main.e34c655f.chunk.js"
+    "static/js/main.8c56bdea.chunk.js"
   ]
 }
